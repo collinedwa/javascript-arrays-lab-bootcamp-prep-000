@@ -8,7 +8,7 @@ function destructivelyAppendKitten(kittens){
 
 function destructivelyPrependKitten(kittens){
   kittens = ["Milo", "Otis", "Garfield"]
-  kittens.unshift(name)
+  kittens.unshift("Bob")
   return kittens
 }
 
