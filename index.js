@@ -9,7 +9,6 @@ function destructivelyAppendKitten(kittens){
 function destructivelyPrependKitten(kittens){
   kittens = ["Milo", "Otis", "Garfield"]
   kittens.unshift("Bob")
-  return kittens
 }
 
 function destructivelyRemoveFirstKitten(){
